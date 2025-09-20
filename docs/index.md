@@ -9,6 +9,9 @@ This is a sample markdown file with some random content.
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/CraBXLQ221Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+[More github info](pagesinfo.md)
+
+
 ### Features
 
 - Bullet points
