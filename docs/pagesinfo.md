@@ -12,9 +12,10 @@ Websites using github pages
 ## Extensions
 
 ### Themes for Markdown
-Markdown preview enhanced extension
-https://docs.fontawesome.com/
+- Markdown preview enhanced extension
+- https://docs.fontawesome.com/
 
+- https://github.com/microsoft/markitdown
 
 ### Terminal
 
