@@ -28,3 +28,16 @@ Introducing Application Frontend: Simplifying UI App Hosting
 ![alt text](image-5.png)
 
 https://www.youtube.com/watch?v=cqRC6_50tlE&list=WL&index=5
+
+
+##Joule agents
+
+https://www.youtube.com/watch?v=o5zIoawwKso&list=WL&index=3
+
+Deck 
+
+##Diagrams
+
+Draw.io https://www.youtube.com/watch?v=mXdqs39qYtI
+
+![architecture_center](image-6.png)
