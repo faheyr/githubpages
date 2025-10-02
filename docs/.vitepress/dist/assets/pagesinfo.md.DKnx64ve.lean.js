@@ -1,0 +1,1 @@
+import{_ as a,c as r,o as t,af as s}from"./chunks/framework.DRwDtgrl.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pagesinfo.md","filePath":"pagesinfo.md"}'),o={name:"pagesinfo.md"};function n(i,e,l,h,p,f){return t(),r("div",null,[...e[0]||(e[0]=[s("",9)])])}const d=a(o,[["render",n]]);export{c as __pageData,d as default};
