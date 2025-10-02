@@ -1,25 +1,25 @@
+---
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
 
-# Documentation Index
+hero:
+  name: "richard gitpages site"
+  text: "demo of how github pages works in conjunction with vitepress. to demo documentation"
+  tagline: My great project tagline
+  actions:
+    - theme: brand
+      text: Markdown Examples
+      link: /markdown-examples
+    - theme: alt
+      text: API Examples
+      link: /api-examples
 
-Welcome to the documentation hub. Here you'll find links to all available documentation pages.
-
-## Pages Overview
-
-### General Information
-
-- [Pages Information](pagesinfo.md)
-
-### Devtober 2025
-
-- [Devtober 2025 Main](devtober2025.md)
-  - [SAP Databricks](devtober2025/databricks.md)
-  - [HANA](devtober2025/hana.md)
-  - [SAP Joule](devtober2025/joule.md)
-
-### HANA Documentation
-
-- [HANA Cloud](hana/hana-cloud.md)
-- [SDI/SDA](hana/sdi-sda.md)
-
-
+features:
+  - title: Feature A
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature B
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature C
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+---
 
