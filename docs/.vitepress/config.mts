@@ -4,14 +4,15 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "richard gitpages site",
   description: "demo of how github pages works in conjunction with vitepress. to demo documentation",
+  base: '/githubpages/', // Required for GitHub Pages
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Blog', link: '/pagesinfo' }
-      { text: 'API', link: '/api-examples' }
-      { text: 'Examples', link: '/markdown-examples' }
-      { text: 'Devtopberfest', link: '/markdown-examples' }
+      { text: 'Blog', link: '/pagesinfo' },
+      { text: 'API', link: '/api-examples' },
+      { text: 'Examples', link: '/markdown-examples' },
+      { text: 'Devtoberfest', link: '/devtober2025' }
     ],
 
     sidebar: [
@@ -19,8 +20,9 @@ export default defineConfig({
         text: 'Examples',
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-          { text: 'Pagesinfo', link: '/pagesinfo' }
+          { text: 'Runtime API Examples', link: '/api-examples' },
+          { text: 'Pages Info', link: '/pagesinfo' },
+          { text: 'Devtoberfest 2025', link: '/devtober2025' }
         ]
       }
     ],
