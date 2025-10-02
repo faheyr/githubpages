@@ -1,6 +1,9 @@
 ---
 title: devtoberfest 2025
+description: list of devtober fest details
 editLink: true
+lastUpdated: true
+
 ---
 
 ##ABAP cloud
