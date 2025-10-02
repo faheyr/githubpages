@@ -1,42 +1,25 @@
 
-# Random Markdown Page
+# Documentation Index
 
-## Welcome to the Random Page
+Welcome to the documentation hub. Here you'll find links to all available documentation pages.
 
-This is a sample markdown file with some random content.
+## Pages Overview
 
-<div align="center">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/CraBXLQ221Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+### General Information
 
-[More github info](pagesinfo.md)
+- [Pages Information](pagesinfo.md)
 
+### Devtober 2025
 
-### Features
+- [Devtober 2025 Main](devtober2025.md)
+  - [SAP Databricks](devtober2025/databricks.md)
+  - [HANA](devtober2025/hana.md)
+  - [SAP Joule](devtober2025/joule.md)
 
-- Bullet points
-- **Bold text**
-- _Italic text_
-- [A random link](https://example.com)
+### HANA Documentation
 
-> "To be or not to be, that is the question."
-
-#### Code Example
-
-```python
-def hello_world():
-	print("Hello, world!")
+- [HANA Cloud](hana/hana-cloud.md)
+- [SDI/SDA](hana/sdi-sda.md)
 
 
-```
 
-##
-git status
-git add.
-git commit 
-git push
-
-
----
-
-Thanks for visiting!
