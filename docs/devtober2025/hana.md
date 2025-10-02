@@ -1,4 +1,7 @@
-##HANA related sessions
+# HANA Overview
+
+
+## HANA related sessions
 
 
 ###Leveraging Calculation Views in SAP BAS: an Introduction

@@ -1,0 +1,28 @@
+{
+  "name": "My Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "bierner.markdown-mermaid",
+        "dbaeumer.vscode-eslint",
+        "docker.docker",
+        "eamodio.gitlens",
+        "enkia.tokyo-night",
+        "esbenp.prettier-vscode",
+        "github.copilot",
+        "github.copilot-chat",
+        "github.vscode-github-actions",
+        "github.vscode-pull-request-github",
+        "hediet.vscode-drawio",
+        "mechatroner.rainbow-csv",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+        "mtxr.sqltools",
+        "tomoyukim.vscode-mermaid-editor",
+        "vscode-icons-team.vscode-icons"
+      ]
+    }
+  }
+}
