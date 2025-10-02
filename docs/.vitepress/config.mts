@@ -30,11 +30,6 @@ export default defineConfig({
       }
     ],
 
-export default {
-  themeConfig: {
-    logo: 'pepsico.svg'
-  }
-}
     socialLinks: [
       { icon: 'github', link: 'https://github.com/faheyr/githubpages' }
     ]
