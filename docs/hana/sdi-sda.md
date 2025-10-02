@@ -2,4 +2,5 @@
 
 ##SDA and SDI overview
 
-![sdi_sda](image.png)
+
+![di_sda](image-1.png)
