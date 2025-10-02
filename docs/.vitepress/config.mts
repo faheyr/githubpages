@@ -3,11 +3,13 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "richard gitpages site",
-
   description: "demo of how github pages works",
   base: '/githubpages/', // Required for GitHub Pages
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: 'pepsico.svg',
+
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Blog', link: '/pagesinfo' },
@@ -28,8 +30,13 @@ export default defineConfig({
       }
     ],
 
+export default {
+  themeConfig: {
+    logo: 'pepsico.svg'
+  }
+}
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/faheyr/githubpages' }
     ]
   }
 })
