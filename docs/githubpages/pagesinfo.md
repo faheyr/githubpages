@@ -7,6 +7,10 @@ Websites using github pages
 - https://docs.fontawesome.com/
 - https://asdf-vm.com/
 
+##Capire documentation
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gvjbxitDf18?si=ELFSjOtp3fC_p1c3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Extensions
 
