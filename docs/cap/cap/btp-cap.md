@@ -7,3 +7,11 @@
 
 - useful session to detail CAP capabilities
 - 
+
+##Get API from S4 and create odata service in CAP and use in postman
+
+🟠 Integrating S/4HANA Public Cloud APIs into CAP Made Simple
+https://www.youtube.com/watch?v=7m22NubgqME
+
+
+<img width="718" height="571" alt="image" src="https://github.com/user-attachments/assets/762b4b1e-7a58-4207-bd2f-07676300c233" />
