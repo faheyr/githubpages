@@ -4,11 +4,11 @@
 
 https://www.youtube.com/watch?v=OwPFB6rzqcA
 
-![di_sda](image-1.png)
+![di_sda](../assets/image-1.png)
 
 ###Data access agent
 
-![data_access_agent](image.png)
+![data_access_agent](../assets/image.png)
 
 
-![daccessagent](image-2.png)
+![daccessagent](../assets/image-2.png)
