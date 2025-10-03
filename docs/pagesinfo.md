@@ -1,4 +1,4 @@
-## Pages info
+## github Pages info
 
 Websites using github pages
 
@@ -6,9 +6,6 @@ Websites using github pages
 - https://starship.rs/
 - https://docs.fontawesome.com/
 - https://asdf-vm.com/
-
-
-
 
 
 ## Extensions

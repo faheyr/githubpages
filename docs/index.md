@@ -16,10 +16,10 @@ hero:
 
 features:
   - title: devtober2025
-    details: [details of devtober pages](/devtober2025)
+    details: "[details of devtober pages](/devtober2025)"
   - title: hana
-    details: [hana cloud](hana/hana-cloud) / [sdi-sda](hana/sdi-sda)
-  - title: misc links
-    details: github links and examples
+    details: "[hana cloud](hana/hana-cloud) and [sdi-sda](hana/sdi-sda"
+  - title: github pages
+    details: "[github pages info](pagesinfo)"
 ---
 
