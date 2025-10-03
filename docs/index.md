@@ -13,13 +13,16 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
+    - theme: alt
+      text: github pages
+      link: /pagesinfo
 
 features:
   - title: devtober2025
-    details: "[details of devtober pages](/devtober2025)"
+    details: "[details of devtober pages](devtober2025.md)"
   - title: hana
-    details: "[hana cloud](hana/hana-cloud) and [sdi-sda](hana/sdi-sda"
+    details: "[hana cloud](hana/hana-cloud.md) and [sdi-sda](hana/sdi-sda.md)"
   - title: github pages
-    details: "[github pages info](pagesinfo)"
+    details: "[github pages info](pagesinfo.md)"
 ---
 
