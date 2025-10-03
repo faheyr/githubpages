@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "richard gitpages site"
-  text: "demo of how github pages works in conjunction with vitepress. to demo documentation"
+  text: "demo of how github pages works in conjunction with vitepress."
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -16,9 +16,9 @@ hero:
 
 features:
   - title: devtober2025
-    details: details of devtober pages
+    details: [details of devtober pages](/devtober2025)
   - title: hana
-    details: various hana links
+    details: [hana cloud](hana/hana-cloud) / [sdi-sda](hana/sdi-sda)
   - title: misc links
     details: github links and examples
 ---
