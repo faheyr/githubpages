@@ -15,3 +15,8 @@ https://www.youtube.com/watch?v=7m22NubgqME
 
 
 <img width="718" height="571" alt="image" src="https://github.com/user-attachments/assets/762b4b1e-7a58-4207-bd2f-07676300c233" />
+
+##Good CAP video
+
+🟠 Less code, same logic – reduce your custom handlers by using new CAP features
+https://www.youtube.com/watch?v=0dyfMLFYif8&list=WL&index=1
