@@ -20,3 +20,14 @@ https://www.youtube.com/watch?v=7m22NubgqME
 
 🟠 Less code, same logic – reduce your custom handlers by using new CAP features
 https://www.youtube.com/watch?v=0dyfMLFYif8&list=WL&index=1
+
+
+
+##CAP and joule
+
+- Good explaination of new cap developments
+- Example of creating CAP artifacts from joule
+- Demo of joule to create forecast app
+
+🔵 Developing AI-driven SAP HANA Cloud applications with SAP Business Application Studio and Joule
+https://www.youtube.com/watch?v=MJnvltbF7yY&list=WL&index=3
