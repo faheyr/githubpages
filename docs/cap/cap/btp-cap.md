@@ -31,3 +31,13 @@ https://www.youtube.com/watch?v=0dyfMLFYif8&list=WL&index=1
 
 🔵 Developing AI-driven SAP HANA Cloud applications with SAP Business Application Studio and Joule
 https://www.youtube.com/watch?v=MJnvltbF7yY&list=WL&index=3
+
+
+##CAP and AI 
+
+Info On Cline creating CAP project
+Good example of vibe coding
+
+🔵 Prompt, Create and Innovate with AI Vibe Coding
+https://www.youtube.com/watch?v=bYlTGcLtmko&list=WL&index=2
+
