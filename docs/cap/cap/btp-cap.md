@@ -41,3 +41,9 @@ Good example of vibe coding
 🔵 Prompt, Create and Innovate with AI Vibe Coding
 https://www.youtube.com/watch?v=bYlTGcLtmko&list=WL&index=2
 
+🟣 AI + SAP Fiori elements = Intelligent App Development at Scale
+
+https://www.youtube.com/watch?v=2ZyI6b81yLw&list=WL&index=4
+
+Also programming with Cline to create fiori app using different mcp servers. 
+
