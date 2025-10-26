@@ -11,3 +11,11 @@ https://blog.dailydoseofds.com/p/visual-guide-to-model-context-protocol
 create mcp for northwind service on btp
 
 https://www.youtube.com/watch?v=04wwKJrK08A
+
+
+##🔴 A(P)I: Unified connectivity for AI applications using MCP
+
+https://www.youtube.com/watch?v=Ql2FQaF0IRo&list=WL&index=5
+MCP overview
+
+<img width="1235" height="651" alt="image" src="https://github.com/user-attachments/assets/1e3bbbaa-1211-4a8b-b828-544446012f60" />
