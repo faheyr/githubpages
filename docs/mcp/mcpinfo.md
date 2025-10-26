@@ -59,7 +59,3 @@ Click the thumbnail to open the video on YouTube. If your site supports inline H
 
 - Overview video and examples of MCP server with SAP: [MCP overview video](https://www.youtube.com/watch?v=Ql2FQaF0IRo&list=WL&index=5)
 
----
-
-_(Images and thumbnails use YouTube/image-hosted thumbnails. If you prefer inline embedding, enable iframe HTML in the site build or use a Jekyll/VitePress include.)_
-
