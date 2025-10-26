@@ -45,5 +45,6 @@ https://www.youtube.com/watch?v=bYlTGcLtmko&list=WL&index=2
 
 https://www.youtube.com/watch?v=2ZyI6b81yLw&list=WL&index=4
 
+https://sapui5.hana.ondemand.com/test-resources/sap/fe/core/fpmExplorer/index.html#/topic/floorplanListReport/simpleListReport
 Also programming with Cline to create fiori app using different mcp servers. 
 
