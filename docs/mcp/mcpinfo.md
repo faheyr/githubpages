@@ -15,6 +15,9 @@ https://www.youtube.com/watch?v=04wwKJrK08A
 
 ##🔴 A(P)I: Unified connectivity for AI applications using MCP
 
+
+- Good video and examples of MCP server with SAP and how it works.
+- 
 https://www.youtube.com/watch?v=Ql2FQaF0IRo&list=WL&index=5
 MCP overview
 
